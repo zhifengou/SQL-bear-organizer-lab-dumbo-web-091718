@@ -11,11 +11,11 @@ def selects_all_bears_names_and_ages_that_are_alive_and_order_youngest_to_oldest
 end
 
 def selects_oldest_bear_and_returns_name_and_age
-  "SELECT name,max(age) FROM bears"
+  "SELECT name,max(age) FROM bears;"
 end
 
 def select_youngest_bear_and_returns_name_and_age
-  "SELECT name,min(age) FROM bears"
+  "SELECT name,min(age) FROM bears;"
 end
 
 def selects_most_prominent_color_and_returns_with_count
