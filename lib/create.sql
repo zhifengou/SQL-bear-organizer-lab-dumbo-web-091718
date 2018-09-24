@@ -1,1 +1,1 @@
-CREATE TABLE bears();
+CREATE TABLE bears(name TEXT,age INTEGER,color TEXT);
