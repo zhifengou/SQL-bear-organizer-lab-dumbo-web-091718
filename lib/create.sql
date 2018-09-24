@@ -1,1 +1,1 @@
-CREATE table bears;
+CREATE TABLE bears;
