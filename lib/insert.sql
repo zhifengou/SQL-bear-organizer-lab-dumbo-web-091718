@@ -1,1 +1,1 @@
-INSERT INTO bears()
+INSERT INTO bears(name) VALUES()
